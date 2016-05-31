@@ -1,0 +1,6 @@
+F:\sgviodf\sgviodf\bin\Debug\sgviodf.exe
+F:\sgviodf\sgviodf\bin\Debug\sgviodf.pdb
+F:\sgviodf\sgviodf\obj\x86\Debug\sgviodf.exe
+F:\sgviodf\sgviodf\obj\x86\Debug\sgviodf.pdb
+C:\Users\snuggle\Documents\Visual Studio 2010\Projects\Streams\sgviodf\obj\x86\Debug\sgviodf.exe
+C:\Users\snuggle\Documents\Visual Studio 2010\Projects\Streams\sgviodf\obj\x86\Debug\sgviodf.pdb
